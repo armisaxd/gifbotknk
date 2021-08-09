@@ -1,0 +1,15 @@
+﻿{
+  "name": "gif-bot",
+  "version": "0.0.1",
+  "description": "Gif",
+  "main": "armisa.js",
+  "scripts": {
+    "test": "node armisa.js"
+  },
+  "author": "Gif#0000",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "orio.db": "^2.1.4"
+  }
+}
